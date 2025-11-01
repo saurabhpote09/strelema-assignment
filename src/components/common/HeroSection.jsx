@@ -6,7 +6,7 @@ const HeroSection = () => {
     <div className="flex relative items-center mt-20">
       <div className="w-1/2">
         <div className="font-bold text-[20px] leading-[30px] text-[#DF6951] font-poppins mb-6 uppercase">
-          Best Destinations around the world
+          Best Destination around the world
         </div>
         <h1 className="mb-[30px] font-volkhav">
           Travel, enjoy and live a new and full life
